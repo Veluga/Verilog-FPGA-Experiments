@@ -1,0 +1,4 @@
+Running: xsim.dir/FourInputXOR_behav/xsimk.exe -simmode gui -wdb FourInputXOR_behav.wdb -simrunnum 0 -socket 50011
+Design successfully loaded
+Design Loading Memory Usage: 5500 KB (Peak: 5500 KB)
+Design Loading CPU Usage: 0 ms
