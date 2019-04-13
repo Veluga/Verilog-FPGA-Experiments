@@ -1,7 +1,7 @@
 Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
-| Date         : Sat Apr 13 17:36:21 2019
+| Date         : Sat Apr 13 17:49:40 2019
 | Host         : DESKTOP-BVR8UDT running 64-bit major release  (build 9200)
 | Command      : report_methodology -file FA_SS_Output_methodology_drc_routed.rpt -pb FA_SS_Output_methodology_drc_routed.pb -rpx FA_SS_Output_methodology_drc_routed.rpx
 | Design       : FA_SS_Output

@@ -1,7 +1,7 @@
 Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
-| Date             : Sat Apr 13 17:36:21 2019
+| Date             : Sat Apr 13 17:49:41 2019
 | Host             : DESKTOP-BVR8UDT running 64-bit major release  (build 9200)
 | Command          : report_power -file FA_SS_Output_power_routed.rpt -pb FA_SS_Output_power_summary_routed.pb -rpx FA_SS_Output_power_routed.rpx
 | Design           : FA_SS_Output
@@ -30,7 +30,7 @@ Table of Contents
 ----------
 
 +--------------------------+----------------------------------+
-| Total On-Chip Power (W)  | 15.209 (Junction temp exceeded!) |
+| Total On-Chip Power (W)  | 15.208 (Junction temp exceeded!) |
 | Design Power Budget (W)  | Unspecified*                     |
 | Power Budget Margin (W)  | NA                               |
 | Dynamic (W)              | 14.946                           |
@@ -52,12 +52,13 @@ Table of Contents
 +----------------+-----------+----------+-----------+-----------------+
 | On-Chip        | Power (W) | Used     | Available | Utilization (%) |
 +----------------+-----------+----------+-----------+-----------------+
-| Slice Logic    |     0.081 |       12 |       --- |             --- |
+| Slice Logic    |     0.081 |       14 |       --- |             --- |
 |   LUT as Logic |     0.081 |       11 |     20800 |            0.05 |
+|   Others       |     0.000 |        2 |       --- |             --- |
 | Signals        |     0.303 |       20 |       --- |             --- |
-| I/O            |    14.562 |       16 |       106 |           15.09 |
+| I/O            |    14.562 |       20 |       106 |           18.87 |
 | Static Power   |     0.262 |          |           |                 |
-| Total          |    15.209 |          |           |                 |
+| Total          |    15.208 |          |           |                 |
 +----------------+-----------+----------+-----------+-----------------+
 
 

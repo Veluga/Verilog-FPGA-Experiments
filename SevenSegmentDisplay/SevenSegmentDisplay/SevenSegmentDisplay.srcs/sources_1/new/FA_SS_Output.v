@@ -24,6 +24,7 @@ module FA_SS_Output
 (
     input [3:0] a, b,
     output s,
+    output [3:0] AN,
     output [6:0] d
 );
 
@@ -33,5 +34,6 @@ module FA_SS_Output
     Decoder dec(.s(n1[3:0]), .d(d));
     
     assign s = n1[4];
-    
+    assign AN = 4'b1110;
+        
 endmodule
